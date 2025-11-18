@@ -4,8 +4,8 @@ Welcome to **Vantico** GitHub profile! Since 2021, Vantico has helped secure som
 We welcome contributions from the community! If you want to enhance our tools or have an idea for a new feature, join the conversation.
 
 ### Who We Are
-We combine high-end security research with a real-world attacker mentality to reduce risk and fortify code.
+We combine high-end security research with a real-world attacker mentality to reduce risk and fortify organizations.
 
 **Some of our work:**
-* [@vanticohq](https://github.com/vanticohq) Our main GitHub organization
+- [@vanticohq](https://github.com/vanticohq) Our main GitHub organization
 
